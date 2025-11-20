@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+*.env
+
+# Ignore large or personal data files
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Ignore temporary system files (Mac)
+.DS_Store
